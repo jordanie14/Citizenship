@@ -1,0 +1,64 @@
+ID Citizenship,Citizenship,ID Year,Year,Citizenship Status,Geography,ID Geography,Slug Geography,Citizenship %
+0,"Citizen",2021,"2021",308022042,"United States","01000US","united-states",0.9341772466775171
+0,"Citizen",2021,"2021",3359991,"Connecticut","04000US09","connecticut",0.9319510280612315
+0,"Citizen",2021,"2021",6439193,"Massachusetts","04000US25","massachusetts",0.9209567078937025
+0,"Citizen",2021,"2021",8331804,"New Jersey","04000US34","new-jersey",0.9022939511528235
+0,"Citizen",2021,"2021",18252642,"New York","04000US36","new-york",0.9074259703516003
+0,"Citizen",2021,"2021",12551769,"Pennsylvania","04000US42","pennsylvania",0.9677054735113506
+0,"Citizen",2021,"2021",1024309,"Rhode Island","04000US44","rhode-island",0.9380557150562893
+0,"Citizen",2020,"2020",304900364,"United States","01000US","united-states",0.9336467222449453
+0,"Citizen",2020,"2020",3329018,"Connecticut","04000US09","connecticut",0.9323546603057401
+0,"Citizen",2020,"2020",6341937,"Massachusetts","04000US25","massachusetts",0.9227315919984321
+0,"Citizen",2020,"2020",8026311,"New Jersey","04000US34","new-jersey",0.9033127085298632
+0,"Citizen",2020,"2020",17694151,"New York","04000US36","new-york",0.9067019170888794
+0,"Citizen",2020,"2020",12384032,"Pennsylvania","04000US42","pennsylvania",0.9678892776293027
+0,"Citizen",2020,"2020",993516,"Rhode Island","04000US44","rhode-island",0.9392303634531357
+0,"Citizen",2019,"2019",302533815,"United States","01000US","united-states",0.9317396658021654
+0,"Citizen",2019,"2019",3326748,"Connecticut","04000US09","connecticut",0.9305396195994824
+0,"Citizen",2019,"2019",6314694,"Massachusetts","04000US25","massachusetts",0.9217787235570617
+0,"Citizen",2019,"2019",8011802,"New Jersey","04000US34","new-jersey",0.9023820795014655
+0,"Citizen",2019,"2019",17686676,"New York","04000US36","new-york",0.9036576605970912
+0,"Citizen",2019,"2019",12379321,"Pennsylvania","04000US42","pennsylvania",0.9677748478876257
+0,"Citizen",2019,"2019",994508,"Rhode Island","04000US44","rhode-island",0.9406723790732584
+0,"Citizen",2018,"2018",300613540,"United States","01000US","united-states",0.9309715675322093
+0,"Citizen",2018,"2018",3330686,"Connecticut","04000US09","connecticut",0.9299685271885778
+0,"Citizen",2018,"2018",6296912,"Massachusetts","04000US25","massachusetts",0.9219229969050655
+0,"Citizen",2018,"2018",8012123,"New Jersey","04000US34","new-jersey",0.9020786784727722
+0,"Citizen",2018,"2018",17680633,"New York","04000US36","new-york",0.9012246276503045
+0,"Citizen",2018,"2018",12380337,"Pennsylvania","04000US42","pennsylvania",0.9678806827923082
+0,"Citizen",2018,"2018",992032,"Rhode Island","04000US44","rhode-island",0.9388810072959679
+0,"Citizen",2017,"2017",298666642,"United States","01000US","united-states",0.9304129023998103
+0,"Citizen",2017,"2017",3340090,"Connecticut","04000US09","connecticut",0.9292281104516428
+0,"Citizen",2017,"2017",6270027,"Massachusetts","04000US25","massachusetts",0.9235133891926421
+0,"Citizen",2017,"2017",8062711,"New Jersey","04000US34","new-jersey",0.8998399693934072
+0,"Citizen",2017,"2017",17792216,"New York","04000US36","new-york",0.8986771947469239
+0,"Citizen",2017,"2017",12387352,"Pennsylvania","04000US42","pennsylvania",0.9684802906531056
+0,"Citizen",2017,"2017",988794,"Rhode Island","04000US44","rhode-island",0.9362356055742715
+0,"Citizen",2016,"2016",296343215,"United States","01000US","united-states",0.9302640784322456
+0,"Citizen",2016,"2016",3333941,"Connecticut","04000US09","connecticut",0.9290444383138687
+0,"Citizen",2016,"2016",6234909,"Massachusetts","04000US25","massachusetts",0.9247666506035247
+0,"Citizen",2016,"2016",8019215,"New Jersey","04000US34","new-jersey",0.8994733415766956
+0,"Citizen",2016,"2016",17677060,"New York","04000US36","new-york",0.8974285360795559
+0,"Citizen",2016,"2016",12390670,"Pennsylvania","04000US42","pennsylvania",0.9692343783159184
+0,"Citizen",2016,"2016",986564,"Rhode Island","04000US44","rhode-island",0.9355831391638241
+0,"Citizen",2015,"2015",294245828,"United States","01000US","united-states",0.9296425397769669
+0,"Citizen",2015,"2015",3336147,"Connecticut","04000US09","connecticut",0.9284555755252528
+0,"Citizen",2015,"2015",6207047,"Massachusetts","04000US25","massachusetts",0.925653179304538
+0,"Citizen",2015,"2015",7999362,"New Jersey","04000US34","new-jersey",0.8983592742160544
+0,"Citizen",2015,"2015",17625647,"New York","04000US36","new-york",0.8959228948008084
+0,"Citizen",2015,"2015",12394531,"Pennsylvania","04000US42","pennsylvania",0.9698715738156536
+0,"Citizen",2015,"2015",985503,"Rhode Island","04000US44","rhode-island",0.9353131604946943
+0,"Citizen",2014,"2014",291850247,"United States","01000US","united-states",0.9291425181610995
+0,"Citizen",2014,"2014",3337100,"Connecticut","04000US09","connecticut",0.9290230405843121
+0,"Citizen",2014,"2014",6160856,"Massachusetts","04000US25","massachusetts",0.9254298783093604
+0,"Citizen",2014,"2014",7959135,"New Jersey","04000US34","new-jersey",0.8968672043797118
+0,"Citizen",2014,"2014",17536172,"New York","04000US36","new-york",0.8949615526532421
+0,"Citizen",2014,"2014",12378095,"Pennsylvania","04000US42","pennsylvania",0.9701667775841936
+0,"Citizen",2014,"2014",985283,"Rhode Island","04000US44","rhode-island",0.9354674854640674
+0,"Citizen",2013,"2013",289401591,"United States","01000US","united-states",0.9289489471660591
+0,"Citizen",2013,"2013",3328722,"Connecticut","04000US09","connecticut",0.928886657712817
+0,"Citizen",2013,"2013",6114210,"Massachusetts","04000US25","massachusetts",0.9256860424238516
+0,"Citizen",2013,"2013",7920841,"New Jersey","04000US34","new-jersey",0.8967931274898369
+0,"Citizen",2013,"2013",17443112,"New York","04000US36","new-york",0.8951128731471095
+0,"Citizen",2013,"2013",12361153,"Pennsylvania","04000US42","pennsylvania",0.9709200439449578
+0,"Citizen",2013,"2013",982983,"Rhode Island","04000US44","rhode-island",0.9346654686006874
